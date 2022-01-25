@@ -1,0 +1,10 @@
+{
+    "encrypt":"08NgOaW5yCVvwRc7LliVbFJftTpTB/nAiYWMb30clpg=",
+    "node_name":"consulclient02",
+    "service": {
+        "id": "nginx2",
+        "name": "nginx",
+        "tags": ["web"],
+        "port": 80
+    }
+}
